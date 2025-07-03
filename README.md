@@ -17,17 +17,14 @@
 ##
 
 # Objetivo Principal
- - Crear aplicacion Fullstack con Nest y Angular
+ - Crear aplicación Fullstack con NestJS y Angular
 
-# Tecnologias
+# Tecnologías
+ - NestJS
+   - TypeORM
+   - MySQL
+   - Swagger
+   - JWT
 
-- **NestJS**  
-  - TypeOrm
-  - MySql
-  - Swagger
-  -  JWT
-
-- **Angular**
-  -   Antdesign
-     
-
+- Angular
+   - Ant Design
